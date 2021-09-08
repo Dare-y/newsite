@@ -1,0 +1,16 @@
+{
+  "name": "Newsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dpeloy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://dare-y.github.io/Newsite",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
